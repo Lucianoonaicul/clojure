@@ -4,9 +4,9 @@ CONFIGURANDO UM AMBIENTE QUE SUPORTE CLOJURE
 
 Todos os passos desse tutorial/exemplo/material de estudo são baseados nas seguintes referências: Clojure.org: https://clojure.org/guides/getting_started
 
-Sobre o ambiente no qual esse material está sendo produzido:
-luciano@leonard-kleinrock:~$ uname -a
-Linux leonard-kleinrock 5.0.0-37-generic #40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+Sobre o ambiente no qual esse material está sendo produzido: <br/>
+luciano@leonard-kleinrock: uname -a <br/>
+Linux leonard-kleinrock 5.0.0-37-generic #40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux <br/>
 
 --------------------------------------------------------------------------------------------
 1) Garanta que você possui estas ferramentas instaladas: bash, curl, rlwrap, and Java1.1) Antes de tudo atualize as referências do gerenciador de pacotes: sudo apt update1.2) Para instalar o bash: sudo apt install bash1.3) Para instalar o curl: sudo apt install curl1.4) Para instalar o rlwrap: sudo apt install rlwrap1.5) Para instalar o java: sudo apt install default-jre
@@ -19,7 +19,7 @@ Linux leonard-kleinrock 5.0.0-37-generic #40~18.04.1-Ubuntu SMP Thu Nov 14 12:06
 
 5) Execute o script de instalação.sudo ./linux-install-1.10.1.507.sh
 
-Se tudo deu certo até aqui você vai executar "clj -help" e a primeira linha retornada será a versão do Clojure:
+Se tudo deu certo até aqui você vai executar "clj -help" e a primeira linha retornada será a versão do Clojure: <br/>
 Version: 1.10.1.507Usage: clojure [dep-opt*] [--] [init-opt*] [main-opt] [arg*] clj [dep-opt*] [--] [init-opt*] [main-opt] [arg*]
 
 <b>
