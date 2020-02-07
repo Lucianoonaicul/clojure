@@ -9,7 +9,12 @@ luciano@leonard-kleinrock: uname -a <br/>
 Linux leonard-kleinrock 5.0.0-37-generic #40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux <br/>
 
 --------------------------------------------------------------------------------------------
-1) Garanta que você possui estas ferramentas instaladas: bash, curl, rlwrap, and Java1.1) Antes de tudo atualize as referências do gerenciador de pacotes: sudo apt update1.2) Para instalar o bash: sudo apt install bash1.3) Para instalar o curl: sudo apt install curl1.4) Para instalar o rlwrap: sudo apt install rlwrap1.5) Para instalar o java: sudo apt install default-jre
+1) Garanta que você possui estas ferramentas instaladas: bash, curl, rlwrap, and Java <br/>
+1.1) Antes de tudo atualize as referências do gerenciador de pacotes: sudo apt update <br/>
+1.2) Para instalar o bash: sudo apt install bash <br/>
+1.3) Para instalar o curl: sudo apt install curl <br/>
+1.4) Para instalar o rlwrap: sudo apt install rlwrap <br/>
+1.5) Para instalar o java: sudo apt install default-jre <br/>
 
 2) Crie um diretório para organizar o material de estudo.Sugestão: mkdir -p /home/luciano/estudo/clojure
 
