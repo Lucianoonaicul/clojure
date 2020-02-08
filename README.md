@@ -36,4 +36,5 @@ EXECUTANDO O PRIMEIRO EXEMPLO
 </b>
 
 1) Execute o comando "clj" apontando para o arquivo hello.clj. <br/>
-luciano@leonard-kleinrock:~/estudo/clojure$ clj projeto-hello-world/hello.clj Hello world!
+luciano@leonard-kleinrock:~/estudo/clojure$ clj projeto-hello-world/hello.clj <br/>
+Hello world!
